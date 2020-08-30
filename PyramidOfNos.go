@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main(){
-	pyramid(6)
+	pyramid(7)
 }
 
 func pyramid(n int){
